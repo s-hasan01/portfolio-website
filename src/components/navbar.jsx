@@ -16,10 +16,9 @@ const Navbar = () => {
             <a className='hover:scale-110 duration-300' href='https://github.com/s-hasan01' target='_blank'>
                 <FaGithub/>
             </a>
-            <a className='hover:scale-110 duration-300' href='https://drive.google.com/file/d/1eEo90JoS7ySGTeJW_tmkOipFpmbu3MC0/view?usp=sharing' target='_blank'>
+            <a className='hover:scale-110 duration-300' href='https://drive.google.com/file/d/1eEo90JoS7ySGTeJW_tmkOipFpmbu3MC0/view' target='_blank'>
                 <IoDocumentText/>
             </a>
-            <TbSunMoon/>
         </div>
     </nav>
 

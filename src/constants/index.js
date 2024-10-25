@@ -28,27 +28,28 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Mario Platformer Game",
-    image: project1,
+    title: "Portfolio Website",
+    image: project3,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
-    link: "https://github.com/s-hasan01/Mario",
+        "Created a portfolio website utilizing technologies such as React, Node.js, HTML, and Tailwind CSS. Hosted website on cloud-platforms such as Vercel, GitHub Pages to ensure easy access, secure hosting. Automated inquiry submissions through Getform, streamlining form data collection.",
+    technologies: ["HTML", "CSS", "React", "Node.js","Vercel","Getforms"],
+    link: "https://github.com/s-hasan01/portfolio-website",
   },
   {
     title: "7-Day Forecast Weather App",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+        "Developed a GUI application, integrated with OpenWeatherMap API, retrieving 7-day weather forecast for any city in Ontario. Utilized Pandas and Matplotlib for data visualization.",
+    technologies: ["Python", "Tkinter", "API", "Pandas", "Matplotlib"],
     link: "https://github.com/s-hasan01/WeatherApp",
   },
   {
-    title: "Portfolio Website",
-    image: project3,
+    title: "Mario Platformer Game",
+    image: project1,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-    link: "https://github.com/s-hasan01/personal-website",
+      "Developed a multi-level platformer game inspired by Super Mario Bros. Implemented Object-Oriented Design principles to ensure consistent structure and behavior of game components.",
+    technologies: ["Python", "Pygame", "Sprites"],
+    link: "https://github.com/s-hasan01/Mario",
   },
+
 ];
