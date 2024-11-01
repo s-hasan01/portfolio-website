@@ -20,7 +20,7 @@ const Main = () => {
                             variants={container(0)}
                             initial='hidden'
                             animate='visible'
-                            className='pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl'>
+                            className='mt-10 pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl'>
                             Sajjad Hassan
                         </motion.h1>
                         <motion.span

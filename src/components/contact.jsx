@@ -17,23 +17,22 @@ const Contact = () => {
                         whileInView={{opacity: 1, x: 0}}
                         initial={{opacity: 0, x: -100}}
                         transition={{duration: 1.5}}
-                        className='bg-neutral-800 p-2 rounded' type='text' placeholder=' Name' name='name'/>
+                        className='bg-neutral-800 p-2 rounded text-white' type='text' placeholder=' Name' name='name'/>
                     <motion.input
                         whileInView={{opacity: 1, x: 0}}
                         initial={{opacity: 0, x: 100}}
                         transition={{duration: 1.5}}
-                        className='my-4 bg-neutral-800 p-2 rounded' type='email' placeholder=' Email' name='email'/>
+                        className='my-4 bg-neutral-800 p-2 rounded text-white' type='email' placeholder=' Email' name='email'/>
                     <motion.textarea
                         whileInView={{opacity: 1, x: 0}}
                         initial={{opacity: 0, x: -100}}
                         transition={{duration: 1.5}}
-                        className='bg-neutral-800 p-2 rounded' placeholder=' Message' name='message' rows='10'></motion.textarea>
+                        className='bg-neutral-800 p-2 rounded text-white' placeholder=' Message' name='message' rows='10'></motion.textarea>
                     <motion.button
                         whileInView={{opacity: 1}}
                         initial={{opacity: 0}}
                         transition={{duration: 2.9}}
-                        className='text-white group border-2 px-4 py-2 my-8 hover:bg-neutral-700 flex hover:border-neutral-700
-                        duration-300 mx-auto items-center rounded'>
+                        className='bg-cyan-950 group px-4 py-2 my-8 hover:bg-neutral-700 flex duration-300 mx-auto items-center rounded text-white'>
                         Lets Connect
                         <span className='ml-2 my-1 group-hover:translate-x-1 duration-150'>
                             <HiArrowRight />

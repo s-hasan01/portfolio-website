@@ -8,14 +8,14 @@ export const EXPERIENCES = [
     role: "Full Stack Developer",
     company: "InnScience Labs Inc.",
     description: `Prototyped website using Figma, and implemented responsive front-end using HTML, CSS and JavaScript. Developed and maintained backend services using Django, integrated with an SQLite database to manage application data. Implemented RESTful APIs for seamless communication between the frontend and backend.`,
-    technologies: ["HTML", "CSS", "JavaScript", "Figma", "Django", "REST", "SQLite"],
+    technologies: ["JavaScript", "Figma", "Django", "REST", "SQLite"],
   },
   {
     year: "2021 - Present",
     role: "Accounts & Sales Consultant",
     company: "Bell Canada",
     description: `Specialized in Business and IT consultation for wireless services. Utilized tools such as Power BI for data insights, Statflo for enhancing customer engagement, Salesforce for effective customer relationship management, and Oracle Database for robust data management. Identified growth opportunities and delivered customized presentations, therefore ensuring high retention. Focused on proactive account management to foster long-term client relationships and deliver exceptional value.`,
-    technologies: ["Power BI", "Salesforce", "Statflo", "Oracle Database"],
+    technologies: ["Power BI", "Salesforce", "Oracle Database"],
   },
   {
     year: "2021 - Present",
@@ -32,7 +32,7 @@ export const PROJECTS = [
     image: project3,
     description:
         "Created a portfolio website utilizing technologies such as React, Node.js, HTML, and Tailwind CSS. Hosted website on cloud-platforms such as Vercel, GitHub Pages to ensure easy access, secure hosting. Automated inquiry submissions through Getform, streamlining form data collection.",
-    technologies: ["HTML", "CSS", "React", "Node.js","Vercel","Getforms"],
+    technologies: ["React", "Node.js","Vercel","Getforms"],
     link: "https://github.com/s-hasan01/portfolio-website",
   },
   {
