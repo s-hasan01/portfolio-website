@@ -28,8 +28,8 @@ const About = () => {
                     className='w-full lg:w-1/2'>
                     <div className='flex justify-center lg:justify-start'>
                         <p className='my-2 max-w-xl py-6'>
-                            Hi, my name is Sajjad Hassan, nice to meet you. I am a Computer Science and Mathematics Double-Major graduated from the University of Toronto with an Honours Bachelor of Science (HBSc.). Currently, I work as a
-                            <span className='font-bold text-fuchsia-700'> Business Consultant</span> at Bell Canada.
+                            Hi, my name is Sajjad Hassan, nice to meet you. I am a Computer Science and Mathematics Double-Major graduated from the University of Toronto with an Honours Bachelor of Science (HBSc.). Currently, I am working as an
+                            <span className='font-bold text-fuchsia-700'> IT Analyst </span> at Bell Canada.
                             Previously, I was a
                             <span className='font-bold text-fuchsia-700'> Full-Stack Developer</span> at InnScience Labs Inc.
                         </p>
