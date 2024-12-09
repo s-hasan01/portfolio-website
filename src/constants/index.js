@@ -1,6 +1,6 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
+import mario from "../assets/projects/mario.png";
+import weatherapp from "../assets/projects/weatherapp.png";
+import portfolio from "../assets/projects/portfolio.png";
 
 export const EXPERIENCES = [
   {
@@ -12,9 +12,9 @@ export const EXPERIENCES = [
   },
   {
     year: "2021 - Present",
-    role: "IT Analyst",
+    role: "Sales Development Representative",
     company: "Bell Canada",
-    description: `Specialized in Business and IT support and consultancy for wireless services. Utilized tools such as Power BI for data insights, Statflo for enhancing customer engagement, Salesforce for effective customer relationship management, and Oracle Database for robust data management. Identified growth opportunities and delivered customized presentations, therefore ensuring high retention. Focused on proactive account management to foster long-term client relationships and deliver exceptional value.`,
+    description: `Specialized in Account Management, Lead Generation and Consultancy for Bell services. Utilized tools such as Power BI for data insights, Statflo for enhancing customer engagement, Salesforce for effective customer relationship management, and Oracle Database for robust data management. Identified growth opportunities and delivered customized presentations, therefore ensuring high retention. Focused on proactive account management to foster long-term client relationships and deliver exceptional value.`,
     technologies: ["Power BI", "Salesforce", "Oracle Database"],
   },
   {
@@ -29,7 +29,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "Portfolio Website",
-    image: project3,
+    image: portfolio,
     description:
         "Created a portfolio website utilizing technologies such as React, Node.js, HTML, and Tailwind CSS. Hosted website on cloud-platforms such as Vercel, GitHub Pages to ensure easy access, secure hosting. Automated inquiry submissions through Getform, streamlining form data collection.",
     technologies: ["React", "Node.js","Vercel","Getforms"],
@@ -37,7 +37,7 @@ export const PROJECTS = [
   },
   {
     title: "7-Day Forecast Weather App",
-    image: project2,
+    image: weatherapp,
     description:
         "Developed a GUI application, integrated with OpenWeatherMap API, retrieving 7-day weather forecast for any city in Ontario. Utilized Pandas and Matplotlib for data visualization.",
     technologies: ["Python", "Tkinter", "API", "Pandas", "Matplotlib"],
@@ -45,7 +45,7 @@ export const PROJECTS = [
   },
   {
     title: "Mario Platformer Game",
-    image: project1,
+    image: mario,
     description:
       "Developed a multi-level platformer game inspired by Super Mario Bros. Implemented Object-Oriented Design principles to ensure consistent structure and behavior of game components.",
     technologies: ["Python", "Pygame", "Sprites"],

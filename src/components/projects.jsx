@@ -1,6 +1,5 @@
 import {PROJECTS} from "../constants/index.js";
 import { motion} from "framer-motion";
-import {HiArrowRight} from "react-icons/hi";
 
 const Projects = () => {
     return (

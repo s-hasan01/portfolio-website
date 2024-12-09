@@ -27,11 +27,15 @@ const About = () => {
                     transition={{duration: 0.5, delay: 0.4}}
                     className='w-full lg:w-1/2'>
                     <div className='flex justify-center lg:justify-start'>
-                        <p className='my-2 max-w-xl py-6'>
-                            Hi, my name is Sajjad Hassan, nice to meet you. I am a Computer Science and Mathematics Double-Major graduated from the University of Toronto with an Honours Bachelor of Science (HBSc.). Currently, I am working as an
-                            <span className='font-bold text-fuchsia-700'> IT Analyst </span> at Bell Canada.
-                            Previously, I was a
-                            <span className='font-bold text-fuchsia-700'> Full-Stack Developer</span> at InnScience Labs Inc.
+                        <p className='my-2 max-w-xl py-2'>
+                            Hi, my name is Sajjad Hassan, nice to meet you. I am a Computer Science and Mathematics
+                            Double-Major graduated from the University of Toronto with an Honours Bachelor of Science
+                            (HBSc.). Currently, I am working as a
+                            <span className='font-bold text-fuchsia-700'> Sales Development Representative </span> at
+                            Bell Canada.
+                            Previously, I worked as a
+                            <span className='font-bold text-fuchsia-700'> Full-Stack Developer</span> at InnScience Labs
+                            Inc.
                         </p>
                     </div>
                     <div className='flex justify-center lg:justify-start'>
@@ -44,6 +48,21 @@ const About = () => {
                             , which I leverage to build efficient, and high-quality applications. Whether it’s
                             through professional projects or self-learning, I’m always exploring new technologies to
                             broaden my expertise.
+                        </p>
+                    </div>
+                    <div className='flex justify-center lg:justify-start'>
+                        <p className='my-2 max-w-xl py-2'>
+                            Alongside my passion for programming, I have a deep interest in Sales. I enjoy connecting
+                            with people, understanding their needs, and
+                            crafting solutions that create real value. Within Sales, I have experience with
+                            <span className='font-bold text-fuchsia-700'> Quota-based Sales, Sales Consulting, Lead-generation,
+                            </span>
+                            <span className=''> and
+                            </span>
+                            <span className='font-bold text-fuchsia-700'> Account Management.
+                            </span> Sales for me goes beyond meeting targets—it’s
+                            about creating trust, solving problems, and delivering outcomes that make a meaningful
+                            impact.
                         </p>
                     </div>
                 </motion.div>

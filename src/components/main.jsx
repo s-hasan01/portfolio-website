@@ -29,7 +29,7 @@ const Main = () => {
                             animate='visible'
                             className='bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl
                          tracking-tight text-transparent selection:text-white'>
-                            Software Developer.
+                            Software Developer. Sales Development.
                         </motion.span>
                         <motion.p
                             variants={container(1)}
