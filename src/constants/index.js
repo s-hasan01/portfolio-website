@@ -12,9 +12,9 @@ export const EXPERIENCES = [
   },
   {
     year: "2021 - Present",
-    role: "Sales Development Representative",
+    role: "IT Operations Analyst",
     company: "Bell Canada",
-    description: `Specialized in Account Management, Lead Generation and Consultancy for Bell services. Utilized tools such as Power BI for data insights, Statflo for enhancing customer engagement, Salesforce for effective customer relationship management, and Oracle Database for robust data management. Identified growth opportunities and delivered customized presentations, therefore ensuring high retention. Focused on proactive account management to foster long-term client relationships and deliver exceptional value.`,
+    description: `Specialized in Account Management, and Consultancy for Bell services. Utilized tools such as Power BI for data insights, Statflo for enhancing customer engagement, Salesforce for effective customer relationship management, and Oracle Database for robust data management. Identified root causes to issues, and collaborated with cross-functional teams to resolve client issues.`,
     technologies: ["Power BI", "Salesforce", "Oracle Database"],
   },
   {
