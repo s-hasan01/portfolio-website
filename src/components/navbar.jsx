@@ -17,7 +17,7 @@ const Navbar = () => {
                 <FaGithub/>
             </a>
             <a className='hover:scale-110 duration-300'
-               href='https://drive.google.com/file/d/1hM-4cI3Qh5L6F42whpYuN7uLOBaq7BLI/view?usp=sharing' target='_blank'>
+               href='https://drive.google.com/file/d/1ZfnrW6-YFsnVGLnxM8HBA_-CZunvAeRw/view?usp=sharing' target='_blank'>
                 <IoDocumentText/>
             </a>
         </div>
